@@ -10,6 +10,7 @@ body {
 .container {
     background: white;
     padding: 30px;
+    color: red
     border-radius: 10px;
     text-align: center;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -26,3 +27,4 @@ button {
     padding: 10px 15px;
     cursor: pointer;
 }
+
